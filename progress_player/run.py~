@@ -1,0 +1,7 @@
+#  I enabled debug support so the server will reload itself on code changes, and it will also provide you with a helpful debugger if things go wrong.
+
+
+from app import app
+
+app.run(debug=True, port=8000)
+

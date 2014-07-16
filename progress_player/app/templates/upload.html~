@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+{% block content %}
+
+<h2>Select a song to upload</h2>
+
+<form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" id="choose_file" class="btn btn-primary" multiple>
+    <input type="submit" id="upload_button" value="Upload" class="btn btn-danger">
+</form>
+
+{% endblock %}

@@ -3,19 +3,16 @@ comments
 coming
 soon 
 */
-
 .audio {
-width : 100% ;
+    width: 100%;
 }
-
-.modal-footer {
-text-align : center ;
-}
-
 .form-audio {
-margin-left : 350px ;
+    margin-left: 350px;
+}
+#choose_file {
+    width: 75%;
+}
+#upload_button {
+    margin: 10px 0 0 0;
 }
 
-.page-header {
-text-align : center ;
-}
