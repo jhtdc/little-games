@@ -28,19 +28,6 @@ if answer =="a":
 	print "You nailed it! Henry Blair was the black inventor who created an early version of the spark plug. He was also the second black inventor to issue a patent. This dude was a true innovator!"
 else:
 	print "Nope, nice try though! Henry Blair, a black inventor, created an early version of the spark plug. He was also the second black inventor to issue a patent. This dude was a true innovator!\n"
-	
-#Section 3. The third question
-print "\nThis person invented an early version of the spark plug which helped drive innovation in the auto industry"
-print  "\n(a) Henry Blair \t(b) Tony Blair \t(c) Blair Witch"
-
-answer = raw_input("Your answer:")
-
-if answer =="a":
-	print "You nailed it! Henry Blair was the black inventor who created an early version of the spark plug. He was also the second black inventor to issue a patent. This dude was a true innovator!"
-else:
-	print "Nope, nice try though! Henry Blair, a black inventor, created an early version of the spark plug. He was also the second black inventor to issue a patent. This dude was a true innovator!\n"
-	
-
 
 
 
